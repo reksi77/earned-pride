@@ -1,0 +1,1 @@
+{"description":"One Line of Earned Pride — a single quiet, earned moment of pride, written to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"earned-pride","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
